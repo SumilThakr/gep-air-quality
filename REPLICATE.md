@@ -1,9 +1,5 @@
 # Replicating the air-quality values
 
-## Introduction
-
-This guide explains how to rerun the code in this repository. The scripts in `code/1_emissions`, `code/2_inmap`, `code/3_health`, and `code/4_vsl` are the versions that ran, with machine-specific paths removed. Rerunning the steps after InMAP reproduces the final table, and a sample rerun of the emission steps matched the saved results. InMAP itself has not been rerun.
-
 ## Data
 
 | Input | Files | Size | Source |
@@ -17,8 +13,6 @@ This guide explains how to rerun the code in this repository. The scripts in `co
 | Health inputs (`basemorts/`, `ijhats/`, `inputs/`) | 524 | 6 GB | GEP data drive |
 | InMAP outputs (`dep.*`, `dust.*`) | 10 | 170 MB | GEP data drive |
 | Country boundaries (`ee_r250_correspondence.gpkg`) | 1 | 83 MB | GEP data drive |
-
-Members of the GEP project can find the data-drive files in the air-quality folder of the GEP data drive, along with checksums for the emission inputs.
 
 ## Steps after InMAP
 
@@ -45,20 +39,3 @@ Dust runs `dust_2` and `dust_3` once per scenario, through `run_dust_emissions.p
 ## InMAP
 
 `code/2_inmap` holds the 2 Slurm scripts and configurations as they ran. Set the environment variable `INMAP_INPUTS` to the folder holding the grid and emission files, and add your Slurm account to the job scripts. The runs read a saved grid, so they do not need the meteorology or population files named in the configurations. Each case takes about 3 to 4 hours.
-
-## What has been checked
-
-| Step | Result |
-|---|---|
-| Barren land cover | Identical in all 6.9M cells |
-| Dust flux, current land cover | Identical on 4 sample days, including wind and friction velocity |
-| Dust totals, both scenarios | Rebuilt for 365 days from the sample-run land-cover factors and saved daily wind and soil moisture, with a 99th percentile cell error of 6e-7 |
-| Annual dust, dust difference, deposition regridding | Identical |
-| LAI by land class | Matches within 5e-7 |
-| Monthly leaf area, July and December, every 100th pixel | Matches within 3e-7 |
-| Deposition velocity, December | Identical |
-| Annual deposition, all 12 months from saved intermediates, every 100th pixel | Identical |
-| Grid and country deaths | Byte-identical |
-| Age and VSL tables | Python reimplementation matches, and the R scripts have not been run |
-| Final table | Matches within $0.00002 per country |
-| InMAP | Not rerun |

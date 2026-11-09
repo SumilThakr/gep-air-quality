@@ -17,7 +17,7 @@ The code is kept as it ran, apart from machine-specific paths, so that the publi
 | Value of a statistical life | `code/4_vsl` (Raahil Madhok) | VSL by country |
 | Dollars | `code/3_health/utils/calculate_benefits.py` | `economic_benefits.csv` |
 
-`REPLICATE.md` explains how to rerun each step and records which steps have been checked.
+`REPLICATE.md` explains how to rerun each step.
 
 ## Contents
 
@@ -26,4 +26,4 @@ The code is kept as it ran, apart from machine-specific paths, so that the publi
 | `code/` | The as-run scripts. `code/replicate/` holds the runner, 2 scripts that replace manual steps, and the comparison. |
 | `inputs_small/` | Small input tables and rasters |
 | `expected/` | As-run country deaths and final values to compare against |
-| `REPLICATE.md` | Replication instructions and status |
+| `REPLICATE.md` | Replication instructions |
