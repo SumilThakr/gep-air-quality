@@ -1,0 +1,222 @@
+vsl_country,FID,dep_country,match_type
+afghanistan,69,Afghanistan,exact
+albania,133,Albania,exact
+algeria,244,Algeria,exact
+american-samoa,179,American Samoa,exact
+andorra,77,Andorra,exact
+angola,33,Angola,exact
+antigua-and-barbuda,145,Antigua and Barbuda,exact
+argentina,218,Argentina,exact
+armenia,212,Armenia,exact
+aruba,184,Aruba,exact
+australia,97,Australia,exact
+austria,96,Austria,exact
+azerbaijan,237,Azerbaijan,exact
+bahamas-the,70,Bahamas,manual
+bahrain,71,Bahrain,exact
+bangladesh,101,Bangladesh,exact
+barbados,27,Barbados,exact
+belarus,196,Belarus,exact
+belgium,152,Belgium,exact
+belize,188,Belize,exact
+benin,161,Benin,exact
+bermuda,148,Bermuda,exact
+bhutan,214,Bhutan,exact
+bolivia,100,Bolivia,exact
+bosnia-and-herzegovina,44,Bosnia and Herzegovina,exact
+botswana,126,Botswana,exact
+brazil,28,Brazil,exact
+british-virgin-islands,236,British Virgin Islands,exact
+brunei,22,Brunei,exact
+bulgaria,94,Bulgaria,exact
+burkina-faso,140,Burkina Faso,exact
+burma,120,Myanmar,manual
+burundi,200,Burundi,exact
+cabo-verde,121,Cabo Verde,exact
+cambodia,227,Cambodia,exact
+cameroon,239,Cameroon,exact
+canada,83,Canada,exact
+cayman-islands,191,Cayman Islands,exact
+central-african-republic,92,Central African Republic,exact
+chad,150,Chad,exact
+chile,124,Chile,exact
+china,122,China,exact
+colombia,173,Colombia,exact
+comoros,172,Comoros,exact
+congo-democratic-republic-of-the,180,Democratic Republic of the Congo,manual
+congo-republic-of-the,192,Republic of the Congo,manual
+cook-islands,175,Cook Islands,exact
+costa-rica,80,Costa Rica,exact
+cote-divoire,88,Côte d'lvoire,manual
+croatia,230,Croatia,exact
+cuba,4,Cuba,exact
+curacao,243,Curaçao,manual
+cyprus,183,Cyprus,exact
+czechia,169,Czechia,exact
+denmark,79,Denmark,exact
+djibouti,219,Djibouti,exact
+dominica,112,Dominica,exact
+dominican-republic,49,Dominican Republic,exact
+ecuador,228,Ecuador,exact
+egypt,85,Egypt,exact
+el-salvador,53,El Salvador,exact
+equatorial-guinea,24,Equatorial Guinea,exact
+eritrea,38,Eritrea,exact
+estonia,250,Estonia,exact
+eswatini,231,Swaziland,manual
+ethiopia,229,Ethiopia,exact
+faroe-islands,90,Faroe Islands,exact
+fiji,84,Fiji,exact
+finland,108,Finland,exact
+france,104,France,exact
+french-polynesia,240,French Polynesia,exact
+gabon,181,Gabon,exact
+gambia-the,74,Gambia,manual
+gaza-strip,149,Palestine,manual
+georgia,48,Georgia,exact
+germany,93,Germany,exact
+ghana,226,Ghana,exact
+gibraltar,195,Gibraltar,exact
+greece,162,Greece,exact
+greenland,147,Greenland,exact
+grenada,160,Grenada,exact
+guam,66,Guam,exact
+guatemala,89,Guatemala,exact
+guernsey,235,Guernsey,exact
+guinea,185,Guinea,exact
+guinea-bissau,45,Guinea-Bissau,exact
+guyana,60,Guyana,exact
+haiti,176,Haiti,exact
+honduras,99,Honduras,exact
+hong-kong,203,"China, Hong Kong Special Administrative Region",manual
+hungary,119,Hungary,exact
+iceland,10,Iceland,exact
+india,159,India,exact
+indonesia,222,Indonesia,exact
+iran,40,Iran,exact
+iraq,35,Iraq,exact
+ireland,46,Ireland,exact
+isle-of-man,190,Isle of Man,exact
+israel,6,Israel,exact
+italy,1,Italy,exact
+jamaica,110,Jamaica,exact
+japan,151,Japan,exact
+jersey,246,Jersey,exact
+jordan,199,Jordan,exact
+kazakhstan,174,Kazakhstan,exact
+kenya,65,Kenya,exact
+kiribati,197,Kiribati,exact
+korea-north,186,North Korea,manual
+korea-south,14,South Korea,manual
+serbia,137,Serbia,manual (Kosovo->Serbia unused FID)
+kuwait,15,Kuwait,exact
+kyrgyzstan,249,Kyrgyzstan,exact
+laos,247,Laos,exact
+latvia,57,Latvia,exact
+lebanon,215,Lebanon,exact
+lesotho,127,Lesotho,exact
+liberia,224,Liberia,exact
+libya,213,Libya,exact
+liechtenstein,207,Liechtenstein,exact
+lithuania,102,Lithuania,exact
+luxembourg,67,Luxembourg,exact
+macau,11,"China, Macao Special Administrative Region",manual
+madagascar,156,Madagascar,exact
+malawi,81,Malawi,exact
+malaysia,21,Malaysia,exact
+maldives,139,Maldives,exact
+mali,170,Mali,exact
+malta,164,Malta,exact
+marshall-islands,37,Marshall Islands,exact
+mauritania,238,Mauritania,exact
+mauritius,138,Mauritius,exact
+mexico,107,Mexico,exact
+micronesia-federated-states-of,58,Micronesia,manual
+moldova,163,Moldova,exact
+monaco,189,Monaco,exact
+mongolia,109,Mongolia,exact
+montenegro,111,Montenegro,exact
+montserrat,211,Montserrat,exact
+morocco,5,Morocco,exact
+mozambique,62,Mozambique,exact
+namibia,63,Namibia,exact
+nauru,42,Nauru,exact
+nepal,106,Nepal,exact
+netherlands,2,Netherlands,exact
+new-caledonia,8,New Caledonia,exact
+new-zealand,56,New Zealand,exact
+nicaragua,78,Nicaragua,exact
+niger,201,Niger,exact
+nigeria,134,Nigeria,exact
+north-macedonia,216,North Macedonia,exact
+northern-mariana-islands,95,Northern Mariana Islands,exact
+norway,128,Norway,exact
+oman,19,Oman,exact
+pakistan,204,Pakistan,exact
+palau,103,Palau,exact
+panama,208,Panama,exact
+papua-new-guinea,52,Papua New Guinea,exact
+paraguay,167,Paraguay,exact
+peru,75,Peru,exact
+philippines,245,Philippines,exact
+poland,30,Poland,exact
+portugal,177,Portugal,exact
+puerto-rico,193,Puerto Rico,exact
+qatar,12,Qatar,exact
+romania,135,Romania,exact
+russia,220,Russia,exact
+rwanda,182,Rwanda,exact
+saint-kitts-and-nevis,55,Saint Kitts and Nevis,exact
+saint-lucia,202,Saint Lucia,exact
+saint-vincent-and-the-grenadines,76,Saint Vincent and the Grenadines,exact
+samoa,168,Samoa,exact
+san-marino,23,San Marino,exact
+sao-tome-and-principe,59,São Tomé and Príncipe,fuzzy
+saudi-arabia,118,Saudi Arabia,exact
+senegal,25,Senegal,exact
+kosovo,232,Kosovo,exact
+seychelles,187,Seychelles,exact
+sierra-leone,73,Sierra Leone,exact
+singapore,217,Singapore,exact
+sint-maarten,206,Sint Maarten,exact
+slovakia,13,Slovakia,exact
+slovenia,16,Slovenia,exact
+solomon-islands,68,Solomon Islands,exact
+somalia,221,Somalia,exact
+south-africa,158,South Africa,exact
+south-sudan,105,South Sudan,exact
+spain,248,Spain,exact
+sri-lanka,136,Sri Lanka,exact
+sudan,50,Sudan,exact
+suriname,31,Suriname,exact
+sweden,241,Sweden,exact
+switzerland,132,Switzerland,exact
+syria,165,Syria,exact
+taiwan,47,Taiwan,exact
+tajikistan,198,Tajikistan,exact
+tanzania,34,Tanzania,exact
+thailand,17,Thailand,exact
+timor-leste,113,Timor-Leste,exact
+togo,29,Togo,exact
+tonga,39,Tonga,exact
+trinidad-and-tobago,116,Trinidad and Tobago,exact
+tunisia,98,Tunisia,exact
+turkey-turkiye,86,Turkey,manual
+turkmenistan,153,Turkmenistan,exact
+turks-and-caicos-islands,144,Turks and Caicos Islands,exact
+tuvalu,91,Tuvalu,exact
+uganda,154,Uganda,exact
+ukraine,36,Ukraine,exact
+united-arab-emirates,223,United Arab Emirates,exact
+united-kingdom,123,United Kingdom,exact
+united-states,54,United States,exact
+uruguay,64,Uruguay,exact
+uzbekistan,87,Uzbekistan,exact
+vanuatu,43,Vanuatu,exact
+venezuela,26,Venezuela,exact
+vietnam,18,Vietnam,exact
+virgin-islands,141,"Virgin Islands, U.S.",manual
+west-bank,149,Palestine,DUPLICATE
+yemen,233,Yemen,exact
+zambia,51,Zambia,exact
+zimbabwe,7,Zimbabwe,exact

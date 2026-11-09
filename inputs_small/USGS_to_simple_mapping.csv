@@ -1,0 +1,26 @@
+﻿Value,Description,Simple_ID,Simple_Desc
+1,Urban and Built-Up Land ,0,Other
+2,Dryland Cropland and Pasture,1,Crops
+3,Irrigated Cropland and Pasture,1,Crops
+4,Mixed Dryland/Irrigated Cropland and Pasture,1,Crops
+5,Cropland/Grassland Mosaic,1,Crops
+6,Cropland/Woodland Mosaic,1,Crops
+7,Grassland,2,Grass
+8,Shrubland,2,Grass
+9,Mixed Shrubland/Grassland,2,Grass
+10,Savanna,2,Grass
+11,Deciduous Broadleaf Forest,3,Forest
+12,Deciduous Needleleaf Forest,3,Forest
+13,Evergreen Broadleaf Forest,3,Forest
+14,Evergreen Needleleaf Forest,3,Forest
+15,Mixed Forest,3,Forest
+16,Water Bodies,0,Other
+17,Herbaceous Wetland,2,Grass
+18,Wooded Wetland,2,Grass
+19,Barren or Sparsely Vegetated,0,Other
+20,Herbaceous Tundra,2,Grass
+21,Wooded Tundra,3,Forest
+22,Mixed Tundra,2,Grass
+23,Bare Ground Tundra,0,Other
+24,Snow or Ice,0,Other
+100,No Data,0,Other

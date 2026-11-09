@@ -1,0 +1,75 @@
+Simple_ID,Simplified,USGS_Value,USGS_Class_Name,Olson_ID,Olson_class_name,Notes
+0,Other,16,Water Bodies,0,Water,
+0,Other,1,Urban and Built-Up Land,1,Urban,
+2,Grass,8,Shrubland,2,Shrub,
+0,Other,,,3,,No suitable match
+0,Other,,,4,,No suitable match
+0,Other,,,5,,No suitable match
+3,Forest,11,Evergreen Broadleaf Forest,6,Trop. evergreen,
+0,Other,,,7,,No suitable match
+0,Other,19,Barren or Sparsely Vegetated,8,Desert,
+0,Other,,,9,,No suitable match
+0,Other,,,10,,No suitable match
+0,Other,,,11,,No suitable match
+0,Other,,,12,,No suitable match
+0,Other,,,13,,No suitable match
+0,Other,,,14,,No suitable match
+0,Other,,,15,,No suitable match
+2,Grass,8,Shrubland,16,Scrub,
+0,Other,24,Snow or Ice,17,Ice,
+0,Other,,,18,,No suitable match
+0,Other,,,19,,No suitable match
+3,Forest,15,Mixed Forest,20,Conifer,
+3,Forest,15,Mixed Forest,21,Conifer,
+3,Forest,15,Mixed Forest,22,Conifer,
+3,Forest,15,Mixed Forest,23,Conifer/Deciduous,
+3,Forest,12,Deciduous Needleleaf Forest,24,Deciduous/Conifer,
+3,Forest,11,Deciduous Broadleaf Forest ,25,Deciduous,
+3,Forest,11,Deciduous Broadleaf Forest ,26,Deciduous,
+3,Forest,14,Evergreen Needleleaf Forest,27,Conifer,
+3,Forest,15,Mixed Forest,28,Dwarf forest,
+3,Forest,13,Evergreen Broadleaf Forest,29,Trop. broadleaf,
+1,Cropland,2,Dryland Cropland and Pasture,30,Agricultural,General agricultural classification
+1,Cropland,2,Dryland Cropland and Pasture,31,Agricultural,General agricultural classification
+3,Forest,11,Deciduous Broadleaf Forest ,32,Dec. woodland,
+3,Forest,13,Evergreen Broadleaf Forest,33,Trop. rainforest,
+0,Other,,,34,,No suitable match
+0,Other,,,35,,No suitable match
+1,Cropland,3,Irrigated Cropland and Pasture,36,Rice paddies,Assumed alignment with irrigated fields
+1,Cropland,2,Dryland Cropland and Pasture,37,agric,
+1,Cropland,2,Dryland Cropland and Pasture,38,agric,
+1,Cropland,2,Dryland Cropland and Pasture,39,agric.,
+2,Grass,8,Shrubland,40,shrub/grass,
+2,Grass,8,Shrubland,41,shrub/grass,
+2,Grass,8,Shrubland,42,shrub/grass,No suitable match
+2,Grass,8,Shrubland,43,shrub/grass,No suitable match
+2,Grass,8,Shrubland,44,shrub/grass,No suitable match
+2,Grass,17,Herbaceous Wetland,45,wetland,General wetland class
+2,Grass,8,Shrubland,46,scrub,No suitable match
+2,Grass,8,Shrubland,47,scrub,
+2,Grass,8,Shrubland,48,scrub,No suitable match
+2,Grass,8,Shrubland,49,scrub,No suitable match
+0,Other,19,Barren or Sparsely Vegetated,50,Desert,No suitable match
+0,Other,19,Barren or Sparsely Vegetated,51,Desert,No suitable match
+2,Grass,7,Grassland,52,Steppe,No suitable match
+2,Grass,22,Mixed Tundra,53,Tundra,No suitable match
+3,Forest,15,Mixed Forest,54,Rainforest,No suitable match
+3,Forest,15,Mixed Forest,55,Mixed wood/open,No suitable match
+3,Forest,15,Mixed Forest,56,Mixed wood/open,No suitable match
+3,Forest,15,Mixed Forest,57,Mixed wood/open,No suitable match
+3,Forest,15,Mixed Forest,58,Mixed wood/open,No suitable match
+3,Forest,15,Mixed Forest,59,Mixed wood/open,No suitable match
+3,Forest,14,Evergreen Needleleaf Forest,60,Conifer,No suitable match
+3,Forest,14,Evergreen Needleleaf Forest,61,Conifer,No suitable match
+3,Forest,14,Evergreen Needleleaf Forest,62,Conifer,No suitable match
+2,Grass,21,Wooded Tundra,63,Wooded tundra,
+2,Grass,8,Mixed Tundra,64,Moor,No suitable match
+2,Grass,14,Herbaceous Wetland,65,coastal,
+2,Grass,15,Herbaceous Wetland,66,coastal,No suitable match
+2,Grass,16,Herbaceous Wetland,67,coastal,No suitable match
+2,Grass,17,Herbaceous Wetland,68,coastal,No suitable match
+0,Other,19,Barren or Sparsely Vegetated,69,Desert,No suitable match
+0,Other,24,Snow or Ice,70,ice,
+0,Other,19,Barren or Sparsely Vegetated,71,salt flats,No suitable match
+2,Grass,17,Herbaceous Wetland,72,wetland,General wetland class
+0,Other,16,Water Bodies,73,water,

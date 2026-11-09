@@ -1,0 +1,16 @@
+{
+  "dataDir": "../dataDir/",
+  "popFile": "inputs/pop.shp",
+  "totalPMFile": "inputs/totalpm.shp",
+  "gemmFile": "inputs/gemm_params.csv",
+  "resultFile": "inmap_outputs/dust.shp",
+  "outputDir": "test_config_output/",
+  "outputFile": "dust_deaths_avoided.shp",
+  "ncVarName": "PM25",
+  "ncLayer": 0,
+  "outputSpec": {
+    "mode": "5cod",
+    "causes": [],
+    "ages": []
+  }
+}

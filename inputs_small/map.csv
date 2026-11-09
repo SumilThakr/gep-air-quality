@@ -1,0 +1,107 @@
+﻿DOMSOI,FAO,STATSGO1,Class
+Ao,Orthic Acrisols (Ao), Clay Loam,MS
+Af,Ferric Acrisols (Af), Clay Loam,MS
+Ah,Humic Acrisols (Ah), Clay Loam,MS
+Ap,Plinthic Acrisols (Ap), Clay Loam,MS
+Ag,Gleyic Acrisols (Ag), Clay Loam,MS
+Be,Eutric Cambisols (Be), Loam,MS
+Bd,Dystric Cambisols (Bd), Loam,MS
+Bh,Humic Cambisols (Bh), Loam,MS
+Bg,Gleyic Cambisols (Bg), Loam,MS
+Bx,Gelic Cambisols (Bx), Loam,MS
+Bk,Calcic Cambisols (Bk), Loam,MS
+Bc,Chromic Cambisols (Bc), Loam,MS
+Bv,Vertic Cambisols (Bv), Loam,MS
+Bf,Ferralic Cambisols (Bf), Loam,MS
+Ch,Haplic Chernozems (Ch), Silt Loam,FS
+Ck,Calcic Chernozems (Ck), Silt Loam,FS
+Cl,Luvic Chernozems (Cl), Silt Loam,FS
+Cg,Glossic Chernozems (Cg), Silt Loam,FS
+De,Eutric Podzoluvisols (De), Sandy Loam,MS
+Dd,Dystric Podzoluvisols (Dd), Sandy Loam,MS
+Dg,Gleyic Podzoluvisols (Dg), Sandy Loam,MS
+E,Rendzinas (E), Loam,MS
+Fo,Orthic Ferralsols (Fo), Clay,FS
+Fx,Xanthic Ferralsols (Fx), Clay,FS
+Fr,Rhodic Ferralsols (Fr), Clay,FS
+Fh,Humic Ferralsols (Fh), Clay,FS
+Fa,Acric Ferralsols (Fa), Clay,FS
+Fp,Plinthic Ferralsols (Fp), Clay,FS
+Ge,Eutric Gleysols (Ge), Silty Clay Loam,FSS
+Gc,Calcaric Gleysols (Gc), Silty Clay Loam,FSS
+Gd,Dystric Gleysols (Gd), Silty Clay Loam,FSS
+Gm,Mollic Gleysols (Gm), Silty Clay Loam,FSS
+Gh,Humic Gleysols (Gh), Silty Clay Loam,FSS
+Gp,Plinthic Gleysols (Gp), Silty Clay Loam,FSS
+Gx,Gelic Gleysols (Gx), Silty Clay Loam,FSS
+Hh,Haplic Phaeozems (Hh), Loam,MS
+Hc,Calcaric Phaeozems (Hc), Loam,MS
+Hl,Luvic Phaeozems (Hl), Loam,MS
+Hg,Gleyic Phaeozems (Hg), Loam,MS
+I,Lithosols (I), Loam,MS
+Je,Eutric Fluvisols (Je), Loam,MS
+Jc,Calcaric Fluvisols (Jc), Loam,MS
+Jd,Dystric Fluvisols (Jd), Loam,MS
+Jt,Thionic Fluvisols (Jt), Loam,MS
+Kh,Haplic Kastanozems (Kh), Silt Loam,FS
+Kk,Calcic Kastanozems (Kk), Silt Loam,FS
+Kl,Luvic Kastanozems (Kl), Silt Loam,FS
+Lo,Orthic Luvisols (Lo), Clay Loam,MS
+Lc,Chromic Luvisols (Lc), Clay Loam,MS
+Lk,Calcic Luvisols (Lk), Clay Loam,MS
+Lv,Vertic Luvisols (Lv), Clay Loam,MS
+Lf,Ferric Luvisols (Lf), Clay Loam,MS
+La,Albic Luvisols (La), Clay Loam,MS
+Lp,Plinthic Luvisols (Lp), Clay Loam,MS
+Lg,Gleyic Luvisols (Lg), Clay Loam,MS
+Mo,Orthic Greyzems (Mo), Silt Loam,FS
+Mg,Gleyic Greyzems (Mg), Silt Loam,FS
+Ne,Eutric Nitosols (Ne), Clay,FS
+Nd,Dystric Nitosols (Nd), Clay,FS
+Nh,Humic Nitosols (Nh), Clay,FS
+Oe,Eutric Histosols (Oe), Silty Clay Loam,FSS
+Od,Dystric Histosols (Od), Silty Clay Loam,FSS
+Ox,Gelic Histosols (Ox), Silty Clay Loam,FSS
+Po,Orthic Podzols (Po), Sandy Loam,MS
+Pl,Leptic Podzols (Pl), Sandy Loam,MS
+Pf,Ferric Podzols (Pf), Sandy Loam,MS
+Ph,Humic Podzols (Ph), Sandy Loam,MS
+Pp,Placic Podzols (Pp), Sandy Loam,MS
+Pg,Gleyic Podzols (Pg), Sandy Loam,MS
+Qc,Cambic Arenosols (Qc), Sand,CS
+Ql,Luvic Arenosols (Ql), Sand,CS
+Qf,Ferralic Arenosols (Qf), Sand,CS
+Qa,Albic Arenosols (Qa), Sand,CS
+Re,Eutric Regosols (Re), Sandy Loam,MS
+Rc,Calcaric Regosols (Rc), Sandy Loam,MS
+Rd,Dystric Regosols (Rd), Sandy Loam,MS
+Rx,Gelic Regosols (Rx), Sandy Loam,MS
+So,Orthic Solonetz (So), Clay,FS
+Sm,Mollic Solonetz (Sm), Clay,FS
+Sg,Gleyic Solonetz (Sg), Clay,FS
+To,Ochric Andosols (To), Loam,MS
+Tm,Mollic Andosols (Tm), Loam,MS
+Th,Humic Andosols (Th), Loam,MS
+Tv,Vitric Andosols (Tv), Loam,MS
+U,Rankers (U), Loam,MS
+Vp,Pellic Vertisols (Vp), Clay,FS
+Vc,Chromic Vertisols (Vc), Clay,FS
+We,Eutric Planosols (We), Silty Clay Loam,FSS
+Wd,Dystric Planosols (Wd), Silty Clay Loam,FSS
+Wm,Mollic Planosols (Wm), Silty Clay Loam,FSS
+Wh,Humic Planosols (Wh), Silty Clay Loam,FSS
+Ws,Solodic Planosols (Ws), Silty Clay Loam,FSS
+Wx,Gelic Planosols (Wx), Silty Clay Loam,FSS
+Xh,Haplic Xerosols (Xh), Sandy Loam,MS
+Xk,Calcic Xerosols (Xk), Sandy Loam,MS
+Xy,Gypsic Xerosols (Xy), Sandy Loam,MS
+Xl,Luvic Xerosols (Xl), Sandy Loam,MS
+Yh,Haplic Yermosols (Yh), Sandy Loam,MS
+Yk,Calcic Yermosols (Yk), Sandy Loam,MS
+Yy,Gypsic Yermosols (Yy), Sandy Loam,MS
+Yl,Luvic Yermosols (Yl), Sandy Loam,MS
+Yt,Takyric Yermosols (Yt), Sandy Loam,MS
+Zo,Orthic Solonchaks (Zo), Clay,FS
+Zm,Mollic Solonchaks (Zm), Clay,FS
+Zt,Takyric Solonchaks (Zt), Clay,FS
+Zg,Gleyic Solonchaks (Zg), Clay,FS
